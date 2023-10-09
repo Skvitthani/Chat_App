@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chatedemo</string>
+    
+<string name="facebook_app_id">2427368994092143</string>
+<string name="fb_login_protocol_scheme">fb2427368994092143</string>
+<string name="facebook_client_token">622b762ac454f6825170f72055f1b36f</string>
+
+
+</resources>

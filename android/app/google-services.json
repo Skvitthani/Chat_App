@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "798564766973",
+    "project_id": "chatedemo-19c1d",
+    "storage_bucket": "chatedemo-19c1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798564766973:android:4243b9f790403439925a94",
+        "android_client_info": {
+          "package_name": "com.chatedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798564766973-6urv3ahmt1ngb09npodapugng2v0obai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatedemo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "798564766973-v7ndiktul6qrjpdhessgj4a7up005r3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsafruy334_-ZkhMaPLMin63g0iEtM7_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798564766973-v7ndiktul6qrjpdhessgj4a7up005r3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
