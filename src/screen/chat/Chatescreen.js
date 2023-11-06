@@ -18,7 +18,7 @@ import Notificationservice from '../../utils/notification/Notificationservice';
 import {useIsFocused} from '@react-navigation/native';
 import {Button, Userprofile} from '../../components/Index';
 // import {hp, wp} from '../../utils/helper/globalfunction/Responsivefont';
-import {hp, ImageConst, Stringconst, wp} from '../../utils/helper/index';
+import {hp, ImageConst, wp} from '../../utils/helper/index';
 
 const Chatescreen = ({route, navigation}) => {
   const items = route?.params?.item;
